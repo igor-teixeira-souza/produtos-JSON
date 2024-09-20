@@ -1,0 +1,19 @@
+{
+    "nome1": "Teclado Redragon Kumara",
+    "price1": "R$ 180,90",
+    "image1": "<img src = 'img/tcelado-kumara.png' width='400px'>",
+
+    "nome2": "Teclado Nexgen Speed Elite",
+    "price2": "R$ 500,90",
+    "image2": "<img src='img/teclado-gamer-mecanico-xtrike-me-gk-916-rgb-switch-blue-black-gk-916_116018.png' width='400px'>",
+
+    "nome3": "Mouse Redragon Cobra",
+    "price3": "R$ 130,90",
+    "image3": "<img src='img/1xg.avif' width='300px'>",
+
+    "nome4": "Mouse Finalmouse UltralightX",
+    "price4": "R$ 350,90",
+    "image4": "<img src= 'img/ultralightx-phantom.webp ' width='300px'>"
+
+    
+}
